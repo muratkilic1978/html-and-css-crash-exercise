@@ -196,5 +196,3 @@ The HTML <form> element can contain one or more of the following form elements:
 - **<output>**
 - **<option>**
 - **<optgroup>**
-
-
