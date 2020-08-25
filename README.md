@@ -182,17 +182,3 @@ An HTML form is used to collect user input. The user input is most often sent to
   <input type="reset" value="RESET">
 </form> 
 ```
-### The HTML <form> Elements ###
-The HTML <form> element can contain one or more of the following form elements:
-
-- <input>
-- <label>
-- <select>
-- <textarea>
-- <button>
-- <fieldset>
-- <legend>
-- <datalist>
-- <output>
-- <option>
-- <optgroup>
