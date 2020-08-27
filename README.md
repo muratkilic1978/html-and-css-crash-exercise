@@ -139,7 +139,7 @@ The four core attributes that can be used on the majority of HTML elements (alth
 ```
 **alt, src, class** are attributes that can be applied on the img HTML tag
 ```html
-<img class ="images" src="img/thumb-1.jpg" alt>
+<img class ="images" src="img/thumb-1.jpg" alt="thumb-image">
 ```
 **title** attribute contains text representing advisory information related to the tag HTML element it belongs to.
 ```html
