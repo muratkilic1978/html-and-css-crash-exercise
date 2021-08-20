@@ -163,22 +163,27 @@ An HTML form is used to collect user input. The user input is most often sent to
 ```html
 <!DOCTYPE html>
 <html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
 <body>
 
 <h2>HTML Forms</h2>
 
-<form>
-  <label for="fname">First Name:</label><br>
-  <input type="text" id="fname" name="fname"><br>
-  <label for="lname">Last Name:</label><br>
-  <input type="text" id="lname" name="lname"><br>
-  <label for="dob">Date of Birth:</label><br>
-  <input type="date" id="dob" name="dob"><br>
-  <label for="mail">Email id:</label><br>
-  <input type="email" id="mail" name="mail"><br>
-  <label for="mobil">Mobil Number:</label><br>
-  <input type="number" id="mobil" name="mobil"><br>
-  <input type="submit" value="SUBMIT">
-  <input type="reset" value="RESET">
-</form> 
+  <form>
+    <label for="fname">First Name:</label><br>
+    <input type="text" id="fname" name="fname"><br>
+    <label for="lname">Last Name:</label><br>
+    <input type="text" id="lname" name="lname"><br>
+    <label for="dob">Date of Birth:</label><br>
+    <input type="date" id="dob" name="dob"><br>
+    <label for="mail">Email id:</label><br>
+    <input type="email" id="mail" name="mail"><br>
+    <label for="mobil">Mobil Number:</label><br>
+    <input type="number" id="mobil" name="mobil"><br>
+    <input type="submit" value="SUBMIT">
+    <input type="reset" value="RESET">
+  </form>
+</body>
+</html>
 ```
