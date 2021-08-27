@@ -1,6 +1,6 @@
 # HTML and CSS Crash Exercise
 
-This is a simple website that needs a careful HTML and CSS review. There are a number of HTML and CSS errors that need to be fixed.
+This simple website needs help from a webdesigner that has insight in the following areas HTML and CSS. There are a number of HTML and CSS errors that need to be fixed. For further help to accomplish this exercise I've created a quick introduction to important HTML and CSS topics that can help you to solve this exercise.
 
 ## Instructions
 1. Download this repository
