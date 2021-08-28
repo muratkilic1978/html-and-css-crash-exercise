@@ -66,6 +66,10 @@ Absolute paths contain a complete **URL**, which includes a protocol, the websit
 ```html
 <a href="https://startlearning.dk/storytelling/images/background-image.jpg/">Storytelling</a>
 ```
+OR
+```html
+<link rel="stylesheet" href="https://startlearning.dk/storytelling/css/style.css">
+```
 
 ## Relative path
 Relative link only includes the name of a specific file or page, which is relative, to the current path. If you keep all of your website's files in a single directory, you can establish links between pages as follows: 
@@ -74,7 +78,10 @@ Relative link only includes the name of a specific file or page, which is relati
 ```html
 <link rel="stylesheet" href="css/style.css">
 ```
-
+OR
+```html
+<a href="images/background-image.jpg/">Storytelling</a>
+```
 ## Stylesheets
 There are three ways of inserting a style sheet:
 
