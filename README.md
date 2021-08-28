@@ -51,7 +51,7 @@ Write always your filenames and folders with lowercase.
 Best practices for web **file** naming.
 
 - **product_catalog.html**
-- **user_category.php**
+- **user-category.php**
 - **log_out_user_profile.php**
 
 Best practices for web **folder** naming.
